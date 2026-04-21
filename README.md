@@ -6,14 +6,10 @@ My solutions and writeups for [Ethernaut](https://ethernaut.openzeppelin.com/) â
 
 - [x] Level 0: [Hello Ethernaut](writeups/00-hello-ethernaut.md)
 - [x] Level 1: [Fallback](writeups/01-fallback.md)
-- [ ] Level 2: Fallout
+- [x] Level 2: [Fallout](writeups/02-fallout.md)
 - [ ] Level 3: Coin Flip
 - [ ] Level 4: Telephone
 - [ ] ...
-
-## Writeups
-
-See [writeups/01-fallback.md](writeups/01-fallback.md) for the full writeup.
 
 ---
 
