@@ -12,6 +12,7 @@ My solutions and writeups for [Ethernaut](https://ethernaut.openzeppelin.com/) â
 - [x] Level 5: [Token](writeups/05-token.md)
 - [x] Level 6: [Delegation](writeups/06-delegation.md)
 - [x] Level 7: [Force](writeups/07-force.md)
+- [x] Level 8: [Vault](writeups/08-vault.md)
 - [ ] ...
 
 ---
