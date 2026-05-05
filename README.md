@@ -13,6 +13,7 @@ My solutions and writeups for [Ethernaut](https://ethernaut.openzeppelin.com/) â
 - [x] Level 6: [Delegation](writeups/06-delegation.md)
 - [x] Level 7: [Force](writeups/07-force.md)
 - [x] Level 8: [Vault](writeups/08-vault.md)
+- [x] Level 9: [King](writeups/09-king.md)
 - [ ] ...
 
 ---
